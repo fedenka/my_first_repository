@@ -1,0 +1,2 @@
+order_id,timestamp,status,products,total_items,total_price,payment_method,destination
+1,2025-05-16 18:53:54,завершен,"[{""product_id"": 1, ""quantity"": 1}]",1,1000.0,Карта,Казань
